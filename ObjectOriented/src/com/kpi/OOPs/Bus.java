@@ -20,4 +20,10 @@ public class Bus extends Vehicles{
 		return 2020;
 	}
 
+	@Override
+	public String vehicleType() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }

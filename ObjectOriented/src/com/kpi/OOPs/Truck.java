@@ -20,4 +20,10 @@ public class Truck extends Vehicles{
 		return 2018;
 	}
 
+	@Override
+	public String vehicleType() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
 }

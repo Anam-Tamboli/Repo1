@@ -20,4 +20,12 @@ public class Car extends Vehicles {
 		return 2021;
 	}
 
+	@Override
+	public String vehicleType() {
+		// TODO Auto-generated method stub
+		return "Maruti";
+	}
+
+
+
 }
